@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "676cabe5599b7021134eeb87"
+  },
+  "nama pemasok": "cv.sumber berkah",
+  "alamat": "jl.kebon jeruk no 5 jakarta",
+  "telepon": "021-98765432",
+  "email": "info@sumberberkah.com",
+  "produk dihasilkan": "gula pasir",
+  "jenis": "bahan pokok",
+  "harga per kg": "10.000",
+  "tanggal bergabung": "2022-05-01"
+}]

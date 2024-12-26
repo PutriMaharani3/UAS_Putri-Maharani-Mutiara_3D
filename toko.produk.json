@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "676cab4e599b7021134eeb86"
+  },
+  "nama": "gula pasir",
+  "kategori": "bahan pokok",
+  "harga": "12.000",
+  "stok": "50",
+  "satuan": "kg",
+  "deskripsi": "gula pasir berkualitas tinggi, cocok untuk berbagai keperluan memasak",
+  "tanggal masuk": "2023-10-01",
+  "expired date": "2024-10-01"
+}]
